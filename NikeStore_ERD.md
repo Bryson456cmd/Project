@@ -1,7 +1,6 @@
 ```mermaid
 erDiagram
-PRODUCT {
-{New Jordans}
+PRODUCT {{New Jordans}
 }
 CUSTOMER {
 }
