@@ -1,8 +1,11 @@
----
-title: Order example
----
+```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-
+PRODUCT { CONTAINS{New Jordans}
+}
+CUSTOMER {
+}
+SALE {
+}
+INVENTORY {
+}
+```
