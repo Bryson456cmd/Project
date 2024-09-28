@@ -1,7 +1,7 @@
 
 ```mermaid 
 sequenceDiagram
-participant Attacker
+participant Attacker Attempts to Ddos or Phish.
 participant BotNet
 participant WebServer
 participant Firewall
