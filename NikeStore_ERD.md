@@ -1,11 +1,11 @@
 ```mermaid
 erDiagram
-PRODUCT {New jordans
-} String name
-CUSTOMER {Buys Jordans
+PRODUCT { New jordans
+} 
+CUSTOMER { Buys Jordans
 }
-SALE {Goes Up
+SALE { Goes Up
 }
-INVENTORY {Must restock
+INVENTORY { Must restock
 }
 ```
