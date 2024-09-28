@@ -1,12 +1,8 @@
-```mermaid
+---
+title: Order example
+---
 erDiagram
-PRODUCT {
-}
-CUSTOMER {
-}
-SALE {
-}
-INVENTORY {
-}
-```
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
