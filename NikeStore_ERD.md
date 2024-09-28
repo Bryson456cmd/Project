@@ -1,7 +1,7 @@
 ```mermaid
 erDiagram
 PRODUCT {New jordans
-}String name
+} String name
 CUSTOMER {Buys Jordans
 }
 SALE {Goes Up
