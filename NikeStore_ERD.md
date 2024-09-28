@@ -1,11 +1,11 @@
 ```mermaid
 erDiagram
-PRODUCT { 
+PRODUCT {New jordans
 }
-CUSTOMER {
+CUSTOMER {Buys Jordans
 }
-SALE {
+SALE {Goes Up
 }
-INVENTORY {
+INVENTORY {Must restock
 }
 ```
