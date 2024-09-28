@@ -3,7 +3,7 @@ erDiagram
 PRODUCT { New Jordans 
 }
 
-CUSTOMER { 
+CUSTOMER {- 
 }
 SALE { 
 }
