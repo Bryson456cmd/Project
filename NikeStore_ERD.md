@@ -1,6 +1,6 @@
 ```mermaid
 erDiagram
-PRODUCT { ||--o{ ORDER 
+PRODUCT { 
 }
 CUSTOMER {
 }
